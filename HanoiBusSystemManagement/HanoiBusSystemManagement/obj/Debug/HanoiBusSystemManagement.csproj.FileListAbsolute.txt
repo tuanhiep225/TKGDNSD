@@ -1,0 +1,57 @@
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\HanoiBusSystemManagement.dll.config
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\HanoiBusSystemManagement.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\HanoiBusSystemManagement.pdb
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\Antlr3.Runtime.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\CKFinder.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\EntityFramework.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\Microsoft.Web.Infrastructure.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\Newtonsoft.Json.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Helpers.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Mvc.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Optimization.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Razor.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.WebPages.Deployment.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.WebPages.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.WebPages.Razor.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\WebGrease.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\EntityFramework.xml
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Helpers.xml
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Mvc.xml
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Optimization.xml
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Razor.xml
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.WebPages.xml
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.WebPages.Deployment.xml
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.WebPages.Razor.xml
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\Newtonsoft.Json.xml
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\Antlr3.Runtime.pdb
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\obj\Debug\HanoiBusSystemManagement.csprojResolveAssemblyReference.cache
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\obj\Debug\HanoiBusSystemManagement.dll
+c:\users\naq259\documents\visual studio 2013\Projects\HanoiBusSystemManagement\HanoiBusSystemManagement\obj\Debug\HanoiBusSystemManagement.pdb
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\HanoiBusSystemManagement.dll.config
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\HanoiBusSystemManagement.dll
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\HanoiBusSystemManagement.pdb
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\Antlr3.Runtime.dll
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\EntityFramework.dll
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\Microsoft.Web.Infrastructure.dll
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\Newtonsoft.Json.dll
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Helpers.dll
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Mvc.dll
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Optimization.dll
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Razor.dll
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.WebPages.Deployment.dll
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.WebPages.dll
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.WebPages.Razor.dll
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\WebGrease.dll
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\EntityFramework.xml
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Helpers.xml
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Mvc.xml
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Optimization.xml
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.Razor.xml
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.WebPages.xml
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.WebPages.Deployment.xml
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\System.Web.WebPages.Razor.xml
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\Newtonsoft.Json.xml
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\bin\Antlr3.Runtime.pdb
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\obj\Debug\HanoiBusSystemManagement.csprojResolveAssemblyReference.cache
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\obj\Debug\HanoiBusSystemManagement.dll
+E:\HOCTAP\HOC VIEN\Nam 4\Thiet ke giao dien nguoi su dung\New\HanoiBusSystemManagement\HanoiBusSystemManagement\obj\Debug\HanoiBusSystemManagement.pdb
